@@ -80,5 +80,5 @@ Submitted via: [Internship Task 1 Google Form](https://forms.gle/8Gm83s53KbyXs3N
 ---
 
 
-- **Name**: *Your Full Name Here*
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Name**: Kavvampally Akhila
+- **GitHub**: https://github.com/settings/appearance
